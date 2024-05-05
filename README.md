@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a webpage that will contain links to different sorts of recipes. The point of this project is not to create a great looking webpage, but to sharpen my HTML skills. With the completion of this project I should feel comfortable enough with HTML to move onto CSS in order to make this page much more desireable.
